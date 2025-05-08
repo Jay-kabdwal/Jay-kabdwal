@@ -1,6 +1,7 @@
 <div align="center">
 
 ## Hi there 👋
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
 # 💫 About Me:
 🛠️ I’m working on: Self-growth and improving my development skills.<br>👯 I’m looking to collaborate on: Real-world projects for growth and experience.<br>⚡ Fun fact: I go to the gym every evening and love traveling and building things that people can actually use!
