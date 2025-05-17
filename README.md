@@ -1,8 +1,7 @@
 <div align="center">
 
-## Hi there 👋
-
-## <img src="https://komarev.com/ghpvc/?username=jay-kabdwal&label=visitor%20Count&color=0e75b6&style=flat" alt="jay-kabdwal" />
+##  Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=jay-kabdwal&label=visitor%20Count&color=0e75b6&style=flat" alt="jay-kabdwal" />
 
 # 💫 About Me:
 🛠️ I’m working on: Self-growth and improving my development skills.
@@ -11,11 +10,7 @@
 <br>📫 How to reach me: jaykabdwal@gmial.com
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jay-kabdwal-7a2258252/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaykabdwal@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jay-kabdwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jay-kabdwal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-kabdwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jay-kabdwal-7a2258252/)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
