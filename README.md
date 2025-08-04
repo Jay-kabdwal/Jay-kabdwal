@@ -9,8 +9,6 @@
 <br>⚡ Fun fact: I go to the gym every evening and love traveling and building things that people can actually use!
 <br>📫 How to reach me: jaykabdwal@gmial.com
 
-![Metrics](https://metrics.lecoq.io/Jay-kabdwal?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jay-kabdwal-7a2258252/)
 
