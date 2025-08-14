@@ -1,5 +1,6 @@
 <div align="center">
-<div align="center" style="background-image: url('asset/jay.jpg'); background-size: cover; background-position: center; padding: 20px;">
+<div align="center" >
+<img src="asset/jay.jpg" alt="Jay" width="300" style="background-position: center; padding: 20px;">
   <h2 style="color: transparent;"></h2 >
 </div>
 <h1 style="
@@ -19,4 +20,8 @@
 
 <img src="asset/kyubey.gif" width="200">
 
+</div>
+
+<div style="width: 100%; height: 300px; overflow: hidden;">
+  <img src="asset/jay.jpg" alt="Jay" style="width: 100%; height: auto;">
 </div>
