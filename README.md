@@ -6,11 +6,9 @@
 
 💻 **Aspiring Full-Stack Developer** | MERN Stack Enthusiast | AI & System Design Learner  
 
-I’m passionate about building **scalable, user-friendly, and efficient web applications**.  
-Currently, I’m on a journey to **master modern web technologies** and work on projects that not only solve problems but also provide great user experiences.  </br>
+I’m passionate about building scalable, user-friendly web applications and mastering modern technologies to create solutions that deliver great user experiences.</br>
+I enjoy exploring new tools and architectures for cleaner, faster development — from frontend design systems to backend optimizations.
 
-I love exploring **new tools, frameworks, and architectures** that make development faster and cleaner — from **frontend design systems** to **backend optimizations**.  </br>
-My long-term goal is to contribute to **open-source projects**, work on **large-scale production apps**, and grow into a role where I can design **robust, distributed systems**.  </br>
 
 ---
 
@@ -32,13 +30,16 @@ My long-term goal is to contribute to **open-source projects**, work on **large-
 
 📚 **Always learning, always building!**  
 💬 Ask me about **MERN stack** or **full-stack development**  
-📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**  
-🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
+📫 Reach me at: **[jaykabdwal](mailto:jaykabdwal@gmail.com)**  
+<!-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)   -->
+
+---
 
 
-## 🌐 Socials:
+**🌐 Socials**</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jay-kabdwal-7a2258252/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
 
-<img src="asset/kyubey.gif" width="200">
+<img src="asset/kyubey.gif" width="150">
 
 </div>
