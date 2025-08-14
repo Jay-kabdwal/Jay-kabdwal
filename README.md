@@ -1,6 +1,4 @@
 <div align="center">
-<div align="center" >
-<img src="https://komarev.com/ghpvc/?username=jay-kabdwal&label=visitor%20Count&color=0e75b6&style=flat" alt="jay-kabdwal" />
 
 ## 👋 Hi, I'm Jay Kabdwal  
 
@@ -37,11 +35,15 @@ I enjoy exploring new tools and architectures for cleaner, faster development �
 
 
 **🌐 Socials**</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jay-kabdwal-7a2258252/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&labelColor=D14836)](mailto:jaykabdwal@gmail.com)
-<!-- [![X](https://img.shields.io/badge/-000000?logo=x&logoColor=white&style=for-the-badge&labelColor=000000)](https://twitter.com/yourusername) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jay-kabdwal-7a2258252/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaykabdwal@gmail.com) 
 
 
 <img src="asset/kyubey.gif" width="150">
+
+
+📚 **Always learning, always building!**  
+
+<img src="https://komarev.com/ghpvc/?username=jay-kabdwal&label=visitor%20Count&color=0e75b6&style=flat" alt="jay-kabdwal" /></br>
+
 
 </div>
