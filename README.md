@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 12px; color: white;">
 
 ## 👋 Hi, I'm Jay Kabdwal  
 
