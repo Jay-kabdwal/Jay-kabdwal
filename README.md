@@ -2,17 +2,6 @@
 <div align="center" >
 <img src="asset/jay.jpg" alt="Jay" width="300" style="background-position: center; padding: 20px;">
   <h2 style="color: transparent;"></h2 >
-</div>
-<h1 style="
-  background: url('asset/jay.jpg') no-repeat center center / cover;
-  -webkit-background-clip: text;
-  color: transparent;
-">
-  Hello from Jay
-</h1>
-
-
-</div>
 <img src="https://komarev.com/ghpvc/?username=jay-kabdwal&label=visitor%20Count&color=0e75b6&style=flat" alt="jay-kabdwal" />
 
 ## 🌐 Socials:
@@ -20,8 +9,4 @@
 
 <img src="asset/kyubey.gif" width="200">
 
-</div>
-
-<div style="width: 100%; height: 200px; overflow: hidden;">
-  <img src="asset/jay.jpg" alt="Jay" style="width: 100%; height: auto;">
 </div>
