@@ -22,6 +22,6 @@
 
 </div>
 
-<div style="width: 100%; height: 300px; overflow: hidden;">
+<div style="width: 100%; height: 200px; overflow: hidden;">
   <img src="asset/jay.jpg" alt="Jay" style="width: 100%; height: auto;">
 </div>
