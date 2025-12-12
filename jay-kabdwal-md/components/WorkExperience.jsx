@@ -65,7 +65,7 @@ export default function Experience() {
             company: 'Birla Institute of Applied Science, Bhimtal',
             title: 'B.Tech (CSE)',
             duration: 'Aug 2022 - Jul 2026',
-            description: 'Pursuing core CS subjects including Data Structures, Operating Systems, and Software Engineering. Actively involved in development.',
+            description: 'Pursuing a comprehensive curriculum covering core computer science subjects such as Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks, and Software Engineering. Actively involved in full-stack web development, building projects using modern technologies, and applying theoretical concepts to real-world applications. Continuously improving problem-solving skills and practical understanding through hands-on projects and self-learning.',
         },
     ];
 
