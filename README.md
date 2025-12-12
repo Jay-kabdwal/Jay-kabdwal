@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Jay Kabdwal  
 
-💻 **Aspiring Full-Stack Developer** | MERN Stack Enthusiast | AI & System Design Learner  
+💻 **Full-Stack Developer**  
 
 I’m passionate about building scalable, user-friendly web applications and mastering modern technologies to create solutions that deliver great user experiences.</br>
 I enjoy exploring new tools and architectures for cleaner, faster development — from frontend design systems to backend optimizations.
