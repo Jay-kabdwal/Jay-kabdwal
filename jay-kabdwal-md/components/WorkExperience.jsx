@@ -9,7 +9,7 @@ function ExperienceCard({ id, company, title, duration, description, type }) {
                 <div className="flex items-center space-x-4">
                     <div className="relative w-10 h-10 flex-shrink-0 rounded-full overflow-hidden">
                         <Image
-                            src={`/${type}/${id}.jpeg`}
+                            src={`/${type}/${id}.png`}
                             alt={`${company} logo`}
                             layout="fill"
                             objectFit="contain"
