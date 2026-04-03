@@ -25,9 +25,21 @@ type FooterProps = {
 };
 
 const defaultSocialItems: SocialItem[] = [
-  { label: "GitHub", href: "https://github.com", icon: FaGithub },
-  { label: "LinkedIn", href: "https://www.linkedin.com", icon: FaLinkedin },
-  { label: "Email", href: "mailto:you@example.com", icon: Mail },
+  {
+    label: "GitHub",
+    href: "https://github.com/Jay-kabdwal",
+    icon: FaGithub
+  },
+  {
+    label: "LinkedIn",
+    href: "https://www.linkedin.com/in/jay-kabdwal/",
+    icon: FaLinkedin,
+  },
+  {
+    label: "Email",
+    href: "mailto:jaykabdwal@gmail.com",
+    icon: Mail
+  },
 ];
 
 export default function Footer({
@@ -37,7 +49,7 @@ export default function Footer({
   showBackToTop = true,
 }: FooterProps) {
   return (
-    <footer className="relative mt-16 overflow-visible rounded-2xl border border-zinc-700 bg-zinc-900 text-white shadow-lg sm:mt-20 lg:mt-28">
+    <footer className="relative mt-16 overflow-visible rounded-2xl border  bg-black text-white shadow-lg sm:mt-20 lg:mt-28">
       <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_20%_12%,rgba(255,255,255,0.09),transparent_30%),radial-gradient(circle_at_80%_18%,rgba(255,255,255,0.07),transparent_35%)]" />
 
       <div className="relative mx-auto max-w-6xl px-4 py-12 sm:px-6 sm:py-16 lg:py-20">

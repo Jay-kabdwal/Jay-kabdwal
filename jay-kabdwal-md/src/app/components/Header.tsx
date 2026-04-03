@@ -15,7 +15,7 @@ const items = [
 export default function Footer() {
   const pathname = usePathname();
   return (
-    <div className="fixed top-6 left-1/2 -translate-x-1/2">
+    <div className="fixed top-6 left-1/2 -translate-x-1/2 z-50">
       <div className="flex items-center gap-6 px-6 py-3 bg-zinc-900 text-white rounded-2xl shadow-lg border border-zinc-700">
         {items.map((item, index) => {
           const Icon = item.icon;

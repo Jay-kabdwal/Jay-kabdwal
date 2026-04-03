@@ -22,13 +22,13 @@ export default function SidebarCard() {
 
     
     return (
-      <div className="w-[300px] bg-zinc-100 rounded-3xl p-6 flex flex-col items-center relative shadow-lg">
+      <div className="w-[300px] bg-zinc-200 rounded-3xl p-6 flex flex-col items-center relative shadow-lg">
         {/* Profile Image */}
         <div className="w-full rounded-2xl overflow-hidden bg-orange-600">
           <Image
             width={120}
             height={120}
-            src="/profile.jpg" // replace with your image
+            src="/profile.jpg"
             alt="profile"
             className="w-full h-56 object-cover"
           />
@@ -54,11 +54,11 @@ export default function SidebarCard() {
           })}
         </div>
         {/* Button */}
-        <button className="mt-6 flex items-center gap-2 px-6 py-2 bg-black text-white rounded-full hover:bg-zinc-800 transition hover:scale-110">
+        <button className="mt-6 flex items-center gap-2 px-6 py-2 bg-black text-white rounded-full hover:bg-amber-800 transition hover:scale-110">
           RESUME <ArrowUpRight size={20} />
         </button>
         <Link href={"/connect"}>
-          <button className="mt-2 flex items-center gap-2 px-6 py-2 bg-black text-white rounded-full hover:bg-zinc-800 transition hover:scale-110">
+          <button className="mt-2 flex items-center gap-2 px-6 py-2 bg-black text-white rounded-full hover:bg-green-800 transition hover:scale-110">
            CONTACT ME
           </button>
         </Link>
