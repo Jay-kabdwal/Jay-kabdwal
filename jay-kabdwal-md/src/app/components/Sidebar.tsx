@@ -23,7 +23,7 @@ export default function SidebarCard() {
   const brandLine =
     "A Software Engineer who has developed countless innovative solutions.";
   const resumeUrl =
-    "https://drive.google.com/file/d/1Pyy_Sggkg-9mMyp3ykEuwmACNcec_SzG/view?usp=sharing";
+    "https://drive.google.com/file/d/1-9nF_4UZy63xFvCZSVLFRNJ-Yz68RZ1H/view?usp=drive_link";
 
   return (
     <div className="w-full max-w-[340px] lg:w-[300px] bg-zinc-200 rounded-3xl p-6 flex flex-col items-center relative shadow-lg mx-auto lg:mx-0">
