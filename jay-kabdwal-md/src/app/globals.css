@@ -1,5 +1,23 @@
 @import "tailwindcss";
 
+/* ===== Smooth Scroll + Hide Scrollbar ===== */
+html {
+	scroll-behavior: smooth;
+	scrollbar-width: none; /* Firefox */
+}
+
+/* Chrome, Safari */
+html::-webkit-scrollbar {
+	display: none;
+}
+
+/* ===== Optional: body reset ===== */
+body {
+	margin: 0;
+	padding: 0;
+}
+
+/* ===== Wave Animation ===== */
 @keyframes wave {
 	0%,
 	100% {

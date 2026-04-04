@@ -23,23 +23,25 @@ export default function SidebarCard() {
   const brandLine =
     "A Software Engineer who has developed countless innovative solutions.";
   const resumeUrl =
-    "https://drive.google.com/file/d/13xXUjYa5yqGtVJNWQhc-gRk5PwWiDn_3/view";
+    "https://drive.google.com/file/d/1Pyy_Sggkg-9mMyp3ykEuwmACNcec_SzG/view?usp=sharing";
 
   return (
-    <div className="w-[300px] bg-zinc-200 rounded-3xl p-6 flex flex-col items-center relative shadow-lg">
+    <div className="w-full max-w-[340px] lg:w-[300px] bg-zinc-200 rounded-3xl p-6 flex flex-col items-center relative shadow-lg mx-auto lg:mx-0">
       {/* Profile Image */}
       <div className="w-full rounded-2xl overflow-hidden bg-orange-600">
         <Image
-          width={120}
-          height={120}
           src="/profile.jpg"
-          alt="profile"
-          className="w-full h-56 object-cover"
+          alt="Profile"
+          width={300}
+          height={300}
+          priority
         />
       </div>
 
       {/* Name */}
-      <h2 className="lg:text-4xl font-extrabold mt-4">{brandName}</h2>
+      <h2 className="lg:text-4xl text-black font-extrabold mt-4">
+        {brandName}
+      </h2>
 
       {/* Description */}
       <p className="text-center text-gray-600 mt-4 text-md leading-relaxed">
