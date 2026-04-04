@@ -107,7 +107,7 @@ export default function ConnectSection() {
         >
           Let’s Create <br />
           Something{" "}
-          <span className="bg-gradient-to-r from-orange-400 to-amber-600 bg-clip-text font-extrabold text-8xl text-transparent m-auto">
+          <span className="bg-gradient-to-r from-orange-400 to-amber-600 bg-clip-text font-extrabold text-6xl text-transparent m-auto">
             Amazing
           </span>
         </motion.h1>

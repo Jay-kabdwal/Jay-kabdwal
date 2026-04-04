@@ -45,7 +45,7 @@ export default function FAQSection() {
         {/* Heading */}
         <h2 className="text-4xl sm:text-5xl font-bold mb-10">
           Frequently Asked{" "}
-          <span className="bg-gradient-to-r from-orange-400 to-orange-600 bg-clip-text text-8xl text-transparent m-auto">
+          <span className="bg-gradient-to-r from-orange-400 to-orange-600 bg-clip-text text-5xl text-transparent m-auto">
             Questions
           </span>
         </h2>
