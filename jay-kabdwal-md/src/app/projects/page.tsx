@@ -1,9 +1,11 @@
-import React from 'react'
+import ProjectsSection from "../components/sections/ProjectsSection";
 
-const page = () => {
+const ProjectsPage = () => {
   return (
-    <div>page</div>
-  )
-}
+    <main className="space-y-8">
+      <ProjectsSection />
+    </main>
+  );
+};
 
-export default page
+export default ProjectsPage;

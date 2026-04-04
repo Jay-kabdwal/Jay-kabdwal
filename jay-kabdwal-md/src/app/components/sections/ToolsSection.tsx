@@ -16,7 +16,7 @@ const tools = [
 
 const ToolsSection = () => {
   return (
-    <section className="relative w-full rounded-3xl border border-zinc-800 bg-[#080707] px-5 py-12 text-white sm:px-8 md:px-10 lg:px-14 lg:py-16 overflow-hidden">
+    <section className="relative w-full mt-10 rounded-3xl bg-[#080707] px-5 py-12 text-white sm:px-8 md:px-10 lg:px-14 lg:py-16 overflow-hidden">
       {/* Container-safe wrapper */}
       <div className="mx-auto w-full max-w-6xl">
         {/* Headings */}
@@ -57,7 +57,7 @@ const ToolsSection = () => {
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ delay: idx * 0.05 }}
-              className="rounded-2xl border border-zinc-700 bg-zinc-900/90 p-6 hover:border-violet-500/40 transition"
+              className="rounded-2xl border border-zinc-700 bg-zinc-900/90 p-6 hover:border-green-500/40 transition"
             >
               <p className="text-2xl font-bold">{tool.name}</p>
               <p className="mt-2 text-xs uppercase tracking-widest text-zinc-400">

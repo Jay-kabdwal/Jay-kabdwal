@@ -6,39 +6,39 @@ import { useState } from "react";
 
 const projects = [
   {
-    name: "NajmAI",
-    type: "SaaS Framer Template",
+    name: "Streamify",
+    type: "Language Exchange Platform",
     tone: "from-violet-500 to-violet-700",
     accent: "bg-violet-400/35",
-    link: "https://example.com/najmai",
+    link: "https://github.com/Jay-kabdwal/Streamify",
   },
   {
-    name: "Damas",
-    type: "Free Framer Template",
+    name: "College Feedback Portal",
+    type: "Capture Student Feedback React & Node",
     tone: "from-amber-400 to-emerald-500",
     accent: "bg-amber-300/35",
-    link: "https://example.com/damas",
+    link: "https://github.com/Garimabisht12/feedback_management_system",
   },
   {
-    name: "Quanta",
-    type: "Landing Page System",
+    name: "Productify",
+    type: "Ecommerce PERN App",
     tone: "from-cyan-400 to-blue-600",
     accent: "bg-cyan-300/35",
-    link: "https://example.com/quanta",
+    link: "https://github.com/Jay-kabdwal/PRODUCTIFY",
   },
   {
-    name: "TechKart",
+    name: "Face Recognition Attendence App",
     type: "E-commerce MERN App",
     tone: "from-pink-500 to-red-500",
     accent: "bg-pink-300/35",
-    link: "https://example.com/techkart",
+    link: "https://github.com/Jay-kabdwal/staff-attendance-app",
   },
   {
-    name: "Resume AI",
-    type: "AI Resume Builder",
+    name: "Localfoodie",
+    type: "React Static food ordering Website",
     tone: "from-green-400 to-emerald-600",
     accent: "bg-green-300/35",
-    link: "https://example.com/resume-ai",
+    link: "https://github.com/Jay-kabdwal/LocalFoodie",
   },
 ];
 

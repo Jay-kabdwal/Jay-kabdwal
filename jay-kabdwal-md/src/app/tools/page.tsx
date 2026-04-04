@@ -1,9 +1,11 @@
-import React from 'react'
+import ToolsSection from "../components/sections/ToolsSection";
 
-const page = () => {
+const ToolsPage = () => {
   return (
-    <div>page</div>
-  )
-}
+    <main className="space-y-8">
+      <ToolsSection />
+    </main>
+  );
+};
 
-export default page
+export default ToolsPage;

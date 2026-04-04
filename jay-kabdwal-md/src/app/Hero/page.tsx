@@ -1,9 +1,11 @@
-import React from 'react'
+import HeroSection from "../components/sections/HeroSection";
 
-const page = () => {
+const HeroPage = () => {
   return (
-    <div>page</div>
-  )
-}
+    <main className="space-y-8">
+      <HeroSection />
+    </main>
+  );
+};
 
-export default page
+export default HeroPage;
